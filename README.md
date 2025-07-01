@@ -22,7 +22,7 @@
 
 📫 Du kannst mich gerne kontaktieren:  
 📩 armidalizadeh@gmail.com
-
+🔗https://www.linkedin.com/in/mohammad-amin-alizadeh-840262272
 ---
 
 > 🧊 *"Code ist wie Magie, nur logisch."*
