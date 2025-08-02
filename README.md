@@ -7,7 +7,7 @@
 🧠 Ich lerne ständig dazu und liebe es, Probleme zu lösen – egal ob im Team oder allein.
 
 💾 Besonders gerne arbeite ich mit:
-- 💻 Java
+- 💻 Python / Ai
 - 🗄️ SQL / Datenbank-Management
 - 🌐 Web- und Desktopentwicklung
 
