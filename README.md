@@ -1,4 +1,4 @@
-# Mohammad Amin-Alizadeh
+# Armid-Alizadeh
 # Hallo, ich bin Armid! 👋  
 🌍 Willkommen auf meinem GitHub-Profil!
 
